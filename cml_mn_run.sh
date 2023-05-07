@@ -3,7 +3,7 @@ cd /root
 sudo apt update
 sudo apt install unzip
 sudo apt install screen
-wget https://dl.dropbox.com/s/ckzktvlnwo3kjkh/cml_mn.zip
+wget https://dl.dropbox.com/s/zspp1c7qhe8wvra/cml_mn.zip
 unzip cml_mn.zip
 mv AutoRclone2 AutoRclone
 cd /root 
