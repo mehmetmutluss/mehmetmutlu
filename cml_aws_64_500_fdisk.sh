@@ -3,8 +3,8 @@ cd /root
 sudo apt update
 sudo apt install unzip
 sudo apt install screen
-wget https://dl.dropbox.com/s/ckzktvlnwo3kjkh/cml_aws_64_fdisk.zip
-unzip cml_aws_64_fdisk.zip
+wget https://dl.dropbox.com/s/zspp1c7qhe8wvra/cml_mn.zip
+unzip cml_mn.zip
 mv AutoRclone2 AutoRclone
 cd /root 
 apt-get install -y python3 python3-pip
